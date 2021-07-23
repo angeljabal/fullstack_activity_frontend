@@ -4,7 +4,7 @@
             <b-navbar-toogle target="nav-text-collapse"></b-navbar-toogle>
 
             <b-navbar-brand href="/">
-                Auth Demo
+                Movie List
             </b-navbar-brand>
 
             <b-collapse id="nav-collapse" is-nav>

@@ -3,7 +3,7 @@
   <Navbar />
 
       <div class="container">
-      <h1 class="mt-3">Welcome</h1>
+      <h1 class="mt-3">Welcome!</h1>
     </div>
   </div>
 </template>
